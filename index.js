@@ -6,7 +6,7 @@ function happyHolidaysTo(Flatiron) {
   return `Happy holidays, ${Flatiron}!`
 }
 
-function happyHolidaysTo(MerryChristmas, Flatiron) {
+function happyHolidayTo(MerryChristmas, Flatiron) {
   return `Happy ${holidays}, ${you}`
 }
 
