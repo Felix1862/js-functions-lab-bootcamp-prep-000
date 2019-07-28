@@ -10,6 +10,6 @@ function happyHolidayTo(Easter, Flatiron) {
   return `Happy ${Easter}, ${Flatiron}!`
 }
 
-function holidayCountdown(holiday, days) {
+function holidayCountdown(Christmas, days) {
   return `it's ${20} days until ${Christmas}!`
 }
