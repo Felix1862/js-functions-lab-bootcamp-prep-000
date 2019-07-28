@@ -10,6 +10,6 @@ function happyHolidaysTo(MerryChristmas, Flatiron) {
   console.log('Happy ${Merry Christmas}, $"{Flatiron}')
 }
 
-function holidayCountdown(thirtydays, Christmas) {
+function holidayCountdown(thirty, Christmas) {
   console.log('its ${thirty} days until ${Christmas}!')
 }
