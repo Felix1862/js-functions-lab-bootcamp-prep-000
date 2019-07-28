@@ -3,7 +3,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  return 'Happy holidays, ${Felix}!'
+  return 'Happy holidays, you!'
 }
 
 function happyHolidaysTo(MerryChristmas, Flatiron) {
