@@ -1,5 +1,5 @@
 function happyHolidays() {
-  return string ('Happy Holidays!')
+  return 'Happy Holidays!'
 }
 
 function happyHolidaysTo(Flatiron) {
