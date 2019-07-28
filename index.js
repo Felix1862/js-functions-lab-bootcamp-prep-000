@@ -7,7 +7,7 @@ function happyHolidaysTo(Flatiron) {
 }
 
 function happyHolidaysTo(MerryChristmas, Flatiron) {
-  return `Happy ${Merry Christmas}, ${Flatiron}`
+  return `Happy ${holidays}, ${you}`
 }
 
 function holidayCountdown(thirty, Christmas) {
