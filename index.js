@@ -11,5 +11,5 @@ function happyHolidaysTo(MerryChristmas, Flatiron) {
 }
 
 function holidayCountdown(thirty, Christmas) {
-  console.log('its ${thirty} days until ${Christmas}!')
+  return 'its ${thirty} days until ${Christmas}!'
 }
