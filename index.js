@@ -2,7 +2,7 @@ function happyHolidays() {
   return 'Happy holidays!'
 }
 
-function happyHolidaysTo(you) {
+function happyHolidaysTo(Flatiron) {
   return 'Happy holidays, you!'
 }
 
